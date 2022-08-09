@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
 
 * {
   box-sizing: border-box;
@@ -6,8 +6,10 @@
 }
 
 body {
-  background-color: #f6f7fb;
-  font-family: 'Roboto', 'san-serif';
+  background-color: #cdd3ec;
+  background-image: linear-gradient(to bottom, #cdd3ec 0%, #cdd3ec 50%,
+  #283565 50%, #283565 100% );
+  font-family: 'Muli', 'san-serif';
   display: flex;
   flex-direction: column;
   align-items: center;
